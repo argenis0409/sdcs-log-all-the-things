@@ -14,8 +14,9 @@ npm install
 ```
 npm start
 ```
+Then go to http://localhost:3000/ in your browser or go to http://localhost:3000/logs to see the logs in JSON format.
 ## To test
-Rub the following commands in two separate terminals
+Run the following commands in two separate terminals
 ```
 npm start
 ```
